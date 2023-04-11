@@ -1,0 +1,27 @@
+<h1>MLB Scraper</h1>
+<h2>Objective&nbsp; &nbsp; &nbsp;</h2>
+<p>I wouldn't call myself a gambling man, even though I lightly partake.
+    There's one thing that I've come to learn about sports in general, and
+    that's there are patterns beneath the madness of it all. Of course, there
+    are unpredictable events such as injury and the random coach audible, but
+    players generally move as a team. If you can get enough data about a team,
+    you can gather features related to the team. Then you could correlate
+    weights to these things to lead to a total model in the future.</p>
+<p>The first step in creating any model is data collection. I choose about five
+    years of data from 2017-19, and 2021-22. I am skipping 2020 due to the
+    oddity of the year because of COVID-19. I gathered the score for each</p>
+<h2>Future Steps</h2>
+<ol>
+    <li>Copy this file and <a href="toc.cchtml">toc.cchtml</a> to a
+        newly-created directory of your choice.</li>
+    <li>Browse to the directory you just created using the CodeChat Editor's
+        web-based file browser.</li>
+    <li>Open this file and start editing. (If you don't want a readme file, you
+        may delete it; only&nbsp;<a href="toc.cchtml">toc.cchtml</a>&nbsp; is
+        required for a CodeChat Editor project.) You may add any source files
+        you like in this directory or in any subdirectory. When you add or
+        delete a file, update the <a href="toc.cchtml">table of contents</a> to
+        make navigation easier.</li>
+</ol>
+<p><img title="Away Score Linear Regression Model" src="Away_Lin_Regress.png"
+        alt="Away Score Linear Regression Model" width="640" height="480"></p>
