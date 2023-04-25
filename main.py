@@ -1,5 +1,5 @@
 # <p><span class="hljs-comment">Import the MLBScraper class from the
-#         game_scraper module</span></p>
+#         game_scraper module!</span></p>
 from game_scraper import MLBScraper
 # <p><span class="hljs-comment"># Define a list of URLs to scrape data
 #         from</span></p>
